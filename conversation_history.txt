@@ -1,0 +1,33 @@
+Customer: Yes, I would like to know about more office.
+Bot: Okay, I can definitely help you with that! Are you interested in Verizon Business Internet, phone services, or something else for your office needs?
+
+Customer: I am interested in Verizon phone services.
+Bot: Great! Verizon offers reliable and feature-rich phone services for businesses of all sizes. Are you interested in a traditional landline, VoIP (Voice over Internet Protocol), or a mix of both?
+
+Customer: I am interested in voice over Internet Protocol.
+Bot: Excellent choice! VoIP offers a lot of flexibility and advanced features for businesses. Are you looking for a solution that integrates with other business applications?
+
+Customer: Can I speak to your agent sometime?
+Bot: Of course! To schedule a time for you to speak with one of our agents, what days and times are you available?
+
+Customer: I will be available next Monday.
+Bot: Perfect! Are you free anytime next Monday, or are there certain hours that work best for you?
+
+Customer: 11 a.m. should be fine.
+Bot: Great! I'll schedule you for a call with one of our agents next Monday at 11 a.m. In the meantime, is there anything else I can help you with regarding Verizon VoIP services?
+
+Customer: That could be on.
+Bot: Okay, great! So, you're all set for a call with one of our agents next Monday at 11 a.m. to discuss Verizon VoIP. Is there anything *specific* you'd like the agent to focus on during your call? For example, are you interested in learning more about specific features or pricing?
+
+Customer: No, I'm good. That's all for now.
+Bot: Alright! You're all set then. We'll have an agent reach out to you next Monday at 11 a.m. Have a great day, and we look forward to connecting with you then!
+
+Customer: Goodbye.
+Bot: Goodbye! We look forward to speaking with you next Monday. If anything comes up before then, feel free to reach out. Have a great day!
+
+Customer: My.
+Bot: My? Did you mean to say "My pleasure," or is there something else I can help you with today?
+
+
+Customer: Tell me more about iPhone 13.
+Bot: Error connecting to Gemini API: 400 Bad Request: "{<EOL>  "error": {<EOL>    "code": 400,<EOL>    "message": "Invalid JSON payload received. Expected , or } after key:value pair.\nid you mean to say \"My pleasure,\" or is \n                    ^",<EOL>    "status": "INVALID_ARGUMENT"<EOL>  }<EOL>}<EOL>"
